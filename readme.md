@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ AgustD
+⚡ Software Engineer, currently focused on mobile and web development. Experience working with technologies like React Native, Expo, and Node.js.
 
 
 ## 🌐 Socials:
